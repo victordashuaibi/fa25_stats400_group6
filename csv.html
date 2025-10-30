@@ -16,9 +16,40 @@
   </div>
 </div>
 <script>
+async function loadCSVText(paths){
+  for(const url of paths){
+    try{
+      const resp = await fetch(url);
+      if(resp.ok){
+        return await resp.text();
+      }
+    }catch(err){
+      console.warn('Failed to fetch CSV from', url, err);
+    }
+  }
+  return null;
+}
+
+function buildCandidatePaths(path){
+  const urls = [path];
+  const {hostname, pathname} = window.location;
+  if(hostname.endsWith('.github.io')){
+    const owner = hostname.replace('.github.io','');
+    const segments = pathname.split('/').filter(Boolean);
+    const repo = segments.length ? segments[0] : owner;
+    ['gh-pages','main','master'].forEach(branch=>{
+      urls.push(`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`);
+    });
+  }
+  return urls;
+}
+
 async function renderCSV(path){
-  const resp = await fetch(path);
-  const text = await resp.text();
+  const text = await loadCSVText(buildCandidatePaths(path));
+  if(!text){
+    document.getElementById('tbl').textContent = 'Unable to load dataset.';
+    return;
+  }
   const lines = text.split(/\r?\n/).filter(Boolean);
   if(lines.length === 0){ document.getElementById('tbl').textContent='No data'; return; }
   const header = lines[0].split(',');
