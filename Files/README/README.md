@@ -20,4 +20,5 @@ This folder contains a minimal three-page website you can push to GitHub and pub
 4. In GitHub **Settings → Pages**, set:
    - **Source**: `Deploy from a branch`
    - **Branch**: `main` (root)
-5. Your site will be available at `https://<your-username>.github.io/<repo-name>/`.
+5. Your site will be available at [`https://<your-username>.github.io/<repo-name>/`.](https://victordashuaibi.github.io/fa25_stats400_group6/
+)
