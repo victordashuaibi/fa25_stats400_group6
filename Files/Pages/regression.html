@@ -1,0 +1,51 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regression Outputs</title><link rel="stylesheet" href="style.css"></head>
+<body>
+
+<div class="nav">
+  <a href="index.html">Home</a>
+  <a href="csv.html">CSV</a>
+  <a href="regression.html">Regression</a>
+  <a href="plots.html">Plots</a>
+</div>
+
+<div class="container">
+  <h1>Regression Outputs</h1>
+  <div class="card">
+    <p>Key results transcribed from the project document.</p>
+    <pre>AOV 1: SAT_score ~ Time_studying * Program_accept_rate
+------------------------------------------------------
+Df  Sum Sq  Mean Sq  F value  Pr(>F)
+Time_studying                         1 1049851 1049851 59.553 9.88e-14 ***
+Program_accept_rate                   2    1749     874  0.050 0.952
+Time_studying:Program_accept_rate     2   44680   22340  1.267 0.283
+Residuals                           394 6945724   17629
+
+AOV 2: SAT_score ~ Income * SAT_prep
+------------------------------------
+Df  Sum Sq  Mean Sq  F value  Pr(>F)
+Income            1   63297   63297   3.148 0.0768 .
+SAT_prep          1   15674   15674   0.779 0.3778
+Income:SAT_prep   1     172     172   0.009 0.9263
+Residuals       396 7962861   20108
+
+MLR Summary (key terms)
+-----------------------
+(Intercept) 313.0***
+Income 0.0001956 (ns)
+PSAT_score 0.8104***
+Ethnicity: Black -58.72***, Hispanic -56.23***, Other -44.54**, White -17.17*
+Time_studying: Low (<3 hrs/day) -113.1***
+SAT_prep: Yes 6.93 (ns)
+R^2: 0.836, Adj R^2: 0.8298, p < 2.2e-16
+
+Correlations
+------------
+SAT vs PSAT: r = 0.81
+Income vs SAT: r = 0.089
+Income vs PSAT: r = 0.076
+</pre>
+  </div>
+</div>
+</body></html>

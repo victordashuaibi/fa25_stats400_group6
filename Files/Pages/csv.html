@@ -1,0 +1,46 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSV Viewer</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<div class="nav">
+  <a href="index.html">Home</a>
+  <a href="csv.html">CSV</a>
+  <a href="regression.html">Regression</a>
+  <a href="plots.html">Plots</a>
+</div>
+<div class="container">
+  <h1>Dataset</h1>
+  <div class="card">
+    <p>Showing the first 1,000 rows (if present). Scroll to view more.</p>
+    <div id="tbl" class="scroll-wrap"></div>
+  </div>
+</div>
+<script>
+async function renderCSV(path){
+  const resp = await fetch(path);
+  const text = await resp.text();
+  const lines = text.split(/\r?\n/).filter(Boolean);
+  if(lines.length === 0){ document.getElementById('tbl').textContent='No data'; return; }
+  const header = lines[0].split(',');
+  const maxRows = Math.min(lines.length-1, 1000);
+  const rows = [];
+  for(let i=1; i<=maxRows; i++){
+    rows.push(lines[i].split(','));
+  }
+  const table = document.createElement('table');
+  const thead = document.createElement('thead');
+  const trh = document.createElement('tr');
+  header.forEach(h=>{ const th=document.createElement('th'); th.textContent=h; trh.appendChild(th); });
+  thead.appendChild(trh); table.appendChild(thead);
+  const tbody = document.createElement('tbody');
+  rows.forEach(r=>{
+    const tr=document.createElement('tr');
+    header.forEach((_,idx)=>{ const td=document.createElement('td'); td.textContent=r[idx] ?? ''; tr.appendChild(td); });
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  document.getElementById('tbl').appendChild(table);
+}
+renderCSV('revised_sat_dataset.csv');
+</script>
+</body></html>
