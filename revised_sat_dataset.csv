@@ -1,398 +1,398 @@
 Income,PSAT_score,Ethnicity,Time_studying,SAT_score,SAT_prep,Program_accept_rate,Program_grad_rate,Mother_edu
-63366.0,1060.0,Other,High (≥3 hrs/day),1130.0,Yes,High,Medium,Bachelor's
+63366.0,1060.0,Minority,High (≥3 hrs/day),1130.0,Yes,High,Medium,Bachelor's
 54705.0,1000.0,White,High (≥3 hrs/day),1100.0,No,Low,High,High school
-62014.0,1110.0,Black,Low (<3 hrs/day),1110.0,No,Medium,Medium,High school
+62014.0,1110.0,Minority,Low (<3 hrs/day),1110.0,No,Medium,Medium,High school
 50521.0,970.0,White,Low (<3 hrs/day),1080.0,No,Low,Medium,Some college
 75682.0,1090.0,White,Low (<3 hrs/day),1080.0,Yes,High,Medium,Some college
-59601.0,1020.0,Asian,High (≥3 hrs/day),1180.0,Yes,Low,Medium,Bachelor's
-79676.0,1110.0,Other,High (≥3 hrs/day),1290.0,Yes,High,Low,Bachelor's
+59601.0,1020.0,Minority,High (≥3 hrs/day),1180.0,Yes,Low,Medium,Bachelor's
+79676.0,1110.0,Minority,High (≥3 hrs/day),1290.0,Yes,High,Low,Bachelor's
 43882.0,810.0,White,High (≥3 hrs/day),1060.0,No,High,Low,Some college
 81618.0,950.0,White,High (≥3 hrs/day),1110.0,No,Low,Medium,Some college
 91671.0,1290.0,White,Low (<3 hrs/day),1170.0,No,High,High,Graduate
-35125.0,1260.0,Black,Low (<3 hrs/day),1210.0,Yes,High,Low,Some college
+35125.0,1260.0,Minority,Low (<3 hrs/day),1210.0,Yes,High,Low,Some college
 82481.0,1390.0,White,High (≥3 hrs/day),1520.0,No,Low,Low,Some college
 99553.0,1070.0,White,High (≥3 hrs/day),1210.0,No,Low,High,High school
-50807.0,960.0,Asian,Low (<3 hrs/day),940.0,Yes,Medium,Low,Bachelor's
+50807.0,960.0,Minority,Low (<3 hrs/day),940.0,Yes,Medium,Low,Bachelor's
 108451.0,1130.0,White,High (≥3 hrs/day),1250.0,Yes,Medium,Low,Bachelor's
 83380.0,920.0,White,High (≥3 hrs/day),970.0,Yes,Medium,Medium,High school
-60900.0,1160.0,Asian,High (≥3 hrs/day),1340.0,Yes,High,Medium,High school
-73885.0,850.0,Asian,High (≥3 hrs/day),1030.0,Yes,High,Medium,Bachelor's
+60900.0,1160.0,Minority,High (≥3 hrs/day),1340.0,Yes,High,Medium,High school
+73885.0,850.0,Minority,High (≥3 hrs/day),1030.0,Yes,High,Medium,Bachelor's
 86167.0,1120.0,White,High (≥3 hrs/day),1250.0,Yes,Medium,High,Bachelor's
-76520.0,750.0,Hispanic,Low (<3 hrs/day),780.0,Yes,Medium,Medium,Some college
-85775.0,1000.0,Hispanic,High (≥3 hrs/day),1100.0,No,Medium,Low,Graduate
-56587.0,1270.0,Black,High (≥3 hrs/day),1320.0,Yes,Medium,High,High school
-78387.0,730.0,Hispanic,High (≥3 hrs/day),900.0,Yes,High,Medium,Some college
+76520.0,750.0,Minority,Low (<3 hrs/day),780.0,Yes,Medium,Medium,Some college
+85775.0,1000.0,Minority,High (≥3 hrs/day),1100.0,No,Medium,Low,Graduate
+56587.0,1270.0,Minority,High (≥3 hrs/day),1320.0,Yes,Medium,High,High school
+78387.0,730.0,Minority,High (≥3 hrs/day),900.0,Yes,High,Medium,Some college
 46726.0,1060.0,White,High (≥3 hrs/day),1240.0,Yes,Medium,Medium,Graduate
-72775.0,930.0,Other,High (≥3 hrs/day),980.0,Yes,High,Medium,Some college
+72775.0,930.0,Minority,High (≥3 hrs/day),980.0,Yes,High,Medium,Some college
 56922.0,1240.0,White,Low (<3 hrs/day),1240.0,No,Medium,Low,Bachelor's
 60289.0,720.0,White,High (≥3 hrs/day),970.0,Yes,Medium,Medium,Some college
-99722.0,790.0,Black,High (≥3 hrs/day),920.0,Yes,Low,Medium,Some college
+99722.0,790.0,Minority,High (≥3 hrs/day),920.0,Yes,Low,Medium,Some college
 96826.0,1360.0,White,High (≥3 hrs/day),1470.0,No,High,Medium,Graduate
 87183.0,930.0,White,Low (<3 hrs/day),920.0,Yes,High,Medium,Some college
 53154.0,980.0,White,High (≥3 hrs/day),1160.0,No,High,High,Graduate
 68672.0,940.0,White,High (≥3 hrs/day),1000.0,Yes,Medium,Medium,High school
 99262.0,1090.0,White,High (≥3 hrs/day),1120.0,Yes,Medium,High,High school
-77834.0,940.0,Asian,High (≥3 hrs/day),1120.0,No,High,High,High school
+77834.0,940.0,Minority,High (≥3 hrs/day),1120.0,No,High,High,High school
 121387.0,960.0,White,Low (<3 hrs/day),1070.0,No,High,Medium,Bachelor's
-82866.0,860.0,Asian,High (≥3 hrs/day),930.0,No,Medium,Medium,Some college
-78841.0,1030.0,Asian,Low (<3 hrs/day),1140.0,Yes,High,Low,Graduate
-68818.0,1070.0,Black,Low (<3 hrs/day),1040.0,Yes,Low,Medium,Some college
+82866.0,860.0,Minority,High (≥3 hrs/day),930.0,No,Medium,Medium,Some college
+78841.0,1030.0,Minority,Low (<3 hrs/day),1140.0,Yes,High,Low,Graduate
+68818.0,1070.0,Minority,Low (<3 hrs/day),1040.0,Yes,Low,Medium,Some college
 77671.0,1170.0,White,High (≥3 hrs/day),1150.0,No,Medium,Medium,Graduate
 71951.0,1090.0,White,High (≥3 hrs/day),1210.0,Yes,High,Medium,High school
-89162.0,1050.0,Hispanic,Low (<3 hrs/day),1100.0,Yes,High,High,Graduate
+89162.0,1050.0,Minority,Low (<3 hrs/day),1100.0,Yes,High,High,Graduate
 94134.0,990.0,White,Low (<3 hrs/day),1010.0,Yes,Low,Medium,Bachelor's
 59280.0,1210.0,White,High (≥3 hrs/day),1320.0,Yes,High,High,Bachelor's
-48375.0,800.0,Other,High (≥3 hrs/day),940.0,No,High,Low,Bachelor's
+48375.0,800.0,Minority,High (≥3 hrs/day),940.0,No,High,Low,Bachelor's
 38276.0,920.0,White,Low (<3 hrs/day),970.0,Yes,Low,High,Bachelor's
 85160.0,930.0,White,High (≥3 hrs/day),1160.0,No,Low,Medium,Bachelor's
 52933.0,880.0,White,High (≥3 hrs/day),1050.0,Yes,Low,High,High school
 31942.0,1040.0,White,Low (<3 hrs/day),1030.0,Yes,Medium,Low,High school
 82772.0,960.0,White,Low (<3 hrs/day),1000.0,Yes,High,Medium,Graduate
-124860.0,1090.0,Hispanic,High (≥3 hrs/day),1180.0,Yes,High,Medium,Bachelor's
-74879.0,830.0,Black,High (≥3 hrs/day),930.0,No,Medium,High,Bachelor's
-91770.0,1020.0,Asian,High (≥3 hrs/day),1270.0,No,Medium,Medium,Some college
-76637.0,1210.0,Black,Low (<3 hrs/day),1210.0,No,Medium,High,High school
+124860.0,1090.0,Minority,High (≥3 hrs/day),1180.0,Yes,High,Medium,Bachelor's
+74879.0,830.0,Minority,High (≥3 hrs/day),930.0,No,Medium,High,Bachelor's
+91770.0,1020.0,Minority,High (≥3 hrs/day),1270.0,No,Medium,Medium,Some college
+76637.0,1210.0,Minority,Low (<3 hrs/day),1210.0,No,Medium,High,High school
 73022.0,860.0,White,High (≥3 hrs/day),970.0,No,Low,Low,High school
-93382.0,920.0,Black,High (≥3 hrs/day),970.0,No,High,High,Bachelor's
-69195.0,1040.0,Asian,High (≥3 hrs/day),1180.0,No,Medium,High,Some college
-80348.0,890.0,Hispanic,High (≥3 hrs/day),1070.0,Yes,High,High,High school
-81434.0,900.0,Black,Low (<3 hrs/day),920.0,Yes,Medium,Medium,Some college
+93382.0,920.0,Minority,High (≥3 hrs/day),970.0,No,High,High,Bachelor's
+69195.0,1040.0,Minority,High (≥3 hrs/day),1180.0,No,Medium,High,Some college
+80348.0,890.0,Minority,High (≥3 hrs/day),1070.0,Yes,High,High,High school
+81434.0,900.0,Minority,Low (<3 hrs/day),920.0,Yes,Medium,Medium,Some college
 61638.0,910.0,White,High (≥3 hrs/day),980.0,Yes,High,Medium,High school
-94841.0,960.0,Asian,High (≥3 hrs/day),1240.0,Yes,High,High,Bachelor's
+94841.0,960.0,Minority,High (≥3 hrs/day),1240.0,Yes,High,High,Bachelor's
 71501.0,870.0,White,Low (<3 hrs/day),940.0,Yes,High,Medium,Some college
 59885.0,1440.0,White,High (≥3 hrs/day),1520.0,Yes,Medium,Medium,Bachelor's
-85730.0,850.0,Asian,Low (<3 hrs/day),930.0,No,Medium,Medium,Some college
+85730.0,850.0,Minority,Low (<3 hrs/day),930.0,No,Medium,Medium,Some college
 57031.0,960.0,White,Low (<3 hrs/day),910.0,Yes,Medium,Medium,Some college
-75564.0,1270.0,Hispanic,High (≥3 hrs/day),1290.0,Yes,Low,Medium,High school
+75564.0,1270.0,Minority,High (≥3 hrs/day),1290.0,Yes,Low,Medium,High school
 74818.0,1000.0,White,Low (<3 hrs/day),1030.0,Yes,High,Medium,High school
-96718.0,1010.0,Asian,High (≥3 hrs/day),1080.0,Yes,High,High,Some college
-84494.0,700.0,Black,High (≥3 hrs/day),800.0,No,Low,High,Some college
+96718.0,1010.0,Minority,High (≥3 hrs/day),1080.0,Yes,High,High,Some college
+84494.0,700.0,Minority,High (≥3 hrs/day),800.0,No,Low,High,Some college
 74499.0,1120.0,White,Low (<3 hrs/day),1120.0,Yes,High,Low,Bachelor's
-91355.0,1070.0,Hispanic,High (≥3 hrs/day),1240.0,No,Low,Low,Some college
+91355.0,1070.0,Minority,High (≥3 hrs/day),1240.0,No,Low,Low,Some college
 102804.0,1000.0,White,High (≥3 hrs/day),1140.0,No,High,Medium,Bachelor's
-86156.0,850.0,Black,High (≥3 hrs/day),990.0,Yes,Low,High,Graduate
+86156.0,850.0,Minority,High (≥3 hrs/day),990.0,Yes,Low,High,Graduate
 75207.0,920.0,White,High (≥3 hrs/day),1110.0,Yes,High,Medium,Bachelor's
 48763.0,990.0,White,Low (<3 hrs/day),1040.0,No,Low,Medium,High school
 53698.0,1150.0,White,High (≥3 hrs/day),1230.0,No,Medium,High,Some college
 68896.0,1040.0,White,High (≥3 hrs/day),1120.0,No,Low,High,High school
-62810.0,670.0,Hispanic,Low (<3 hrs/day),620.0,No,High,Medium,High school
+62810.0,670.0,Minority,Low (<3 hrs/day),620.0,No,High,Medium,High school
 71261.0,760.0,White,High (≥3 hrs/day),900.0,Yes,Medium,Medium,Graduate
-76133.0,910.0,Hispanic,High (≥3 hrs/day),1030.0,Yes,Low,High,High school
+76133.0,910.0,Minority,High (≥3 hrs/day),1030.0,Yes,Low,High,High school
 85594.0,1160.0,White,High (≥3 hrs/day),1190.0,Yes,Medium,High,Some college
 73590.0,740.0,White,Low (<3 hrs/day),730.0,No,Medium,High,Bachelor's
-84730.0,980.0,Black,High (≥3 hrs/day),1060.0,No,Medium,Medium,Bachelor's
+84730.0,980.0,Minority,High (≥3 hrs/day),1060.0,No,Medium,Medium,Bachelor's
 76289.0,940.0,White,High (≥3 hrs/day),1120.0,Yes,Medium,High,Bachelor's
 35491.0,960.0,White,High (≥3 hrs/day),1120.0,Yes,Medium,High,High school
-56213.0,1140.0,Other,High (≥3 hrs/day),1140.0,Yes,Medium,Medium,Some college
+56213.0,1140.0,Minority,High (≥3 hrs/day),1140.0,Yes,Medium,Medium,Some college
 72118.0,1160.0,White,Low (<3 hrs/day),1150.0,Yes,Low,High,Some college
-50806.0,1020.0,Hispanic,High (≥3 hrs/day),1140.0,No,High,Medium,High school
+50806.0,1020.0,Minority,High (≥3 hrs/day),1140.0,No,High,Medium,High school
 86999.0,730.0,White,Low (<3 hrs/day),740.0,No,High,High,Some college
-105615.0,1140.0,Asian,High (≥3 hrs/day),1230.0,No,Low,High,High school
-99375.0,1170.0,Asian,Low (<3 hrs/day),1200.0,Yes,Low,High,High school
-70731.0,870.0,Other,High (≥3 hrs/day),940.0,Yes,Medium,Medium,Some college
-104815.0,870.0,Hispanic,Low (<3 hrs/day),890.0,No,Medium,Low,High school
-77973.0,1210.0,Black,Low (<3 hrs/day),1160.0,No,High,Low,Bachelor's
-68258.0,860.0,Hispanic,Low (<3 hrs/day),850.0,No,High,Medium,Bachelor's
+105615.0,1140.0,Minority,High (≥3 hrs/day),1230.0,No,Low,High,High school
+99375.0,1170.0,Minority,Low (<3 hrs/day),1200.0,Yes,Low,High,High school
+70731.0,870.0,Minority,High (≥3 hrs/day),940.0,Yes,Medium,Medium,Some college
+104815.0,870.0,Minority,Low (<3 hrs/day),890.0,No,Medium,Low,High school
+77973.0,1210.0,Minority,Low (<3 hrs/day),1160.0,No,High,Low,Bachelor's
+68258.0,860.0,Minority,Low (<3 hrs/day),850.0,No,High,Medium,Bachelor's
 62732.0,1150.0,White,Low (<3 hrs/day),1080.0,No,Medium,Medium,Bachelor's
-68951.0,1050.0,Hispanic,Low (<3 hrs/day),1040.0,Yes,High,High,High school
+68951.0,1050.0,Minority,Low (<3 hrs/day),1040.0,Yes,High,High,High school
 67236.0,1120.0,White,Low (<3 hrs/day),1110.0,Yes,Medium,High,High school
-78408.0,1010.0,Asian,High (≥3 hrs/day),1130.0,Yes,High,Low,High school
-78211.0,1110.0,Black,High (≥3 hrs/day),1140.0,Yes,Low,High,Bachelor's
-75061.0,740.0,Other,Low (<3 hrs/day),740.0,Yes,Low,High,Bachelor's
-83739.0,860.0,Asian,High (≥3 hrs/day),1020.0,Yes,Medium,High,High school
-98813.0,860.0,Hispanic,High (≥3 hrs/day),1040.0,No,Medium,High,Graduate
+78408.0,1010.0,Minority,High (≥3 hrs/day),1130.0,Yes,High,Low,High school
+78211.0,1110.0,Minority,High (≥3 hrs/day),1140.0,Yes,Low,High,Bachelor's
+75061.0,740.0,Minority,Low (<3 hrs/day),740.0,Yes,Low,High,Bachelor's
+83739.0,860.0,Minority,High (≥3 hrs/day),1020.0,Yes,Medium,High,High school
+98813.0,860.0,Minority,High (≥3 hrs/day),1040.0,No,Medium,High,Graduate
 93991.0,900.0,White,High (≥3 hrs/day),1060.0,Yes,High,High,High school
 45302.0,990.0,White,High (≥3 hrs/day),1140.0,Yes,Low,Medium,Some college
 30000.0,1070.0,White,High (≥3 hrs/day),1230.0,No,Medium,Medium,Bachelor's
-93686.0,1090.0,Asian,High (≥3 hrs/day),1250.0,Yes,High,Low,Graduate
+93686.0,1090.0,Minority,High (≥3 hrs/day),1250.0,Yes,High,Low,Graduate
 47662.0,780.0,White,High (≥3 hrs/day),970.0,Yes,Low,Low,Bachelor's
-70505.0,1020.0,Asian,High (≥3 hrs/day),1190.0,No,Low,Medium,Bachelor's
-51598.0,910.0,Asian,Low (<3 hrs/day),860.0,Yes,Low,High,Some college
+70505.0,1020.0,Minority,High (≥3 hrs/day),1190.0,No,Low,Medium,Bachelor's
+51598.0,910.0,Minority,Low (<3 hrs/day),860.0,Yes,Low,High,Some college
 38960.0,860.0,White,Low (<3 hrs/day),870.0,Yes,Medium,Medium,Bachelor's
 85829.0,1210.0,White,Low (<3 hrs/day),1230.0,Yes,Medium,Medium,High school
 90183.0,950.0,White,High (≥3 hrs/day),1030.0,Yes,Medium,High,Graduate
 63470.0,1020.0,White,High (≥3 hrs/day),1140.0,No,Low,Medium,Some college
 30000.0,870.0,White,High (≥3 hrs/day),1030.0,No,Low,Medium,Bachelor's
 64075.0,1080.0,White,High (≥3 hrs/day),1350.0,No,High,Medium,Some college
-82836.0,920.0,Black,High (≥3 hrs/day),970.0,No,High,Medium,Bachelor's
+82836.0,920.0,Minority,High (≥3 hrs/day),970.0,No,High,Medium,Bachelor's
 45422.0,890.0,White,Low (<3 hrs/day),800.0,No,High,High,Some college
 78667.0,890.0,White,High (≥3 hrs/day),990.0,Yes,Low,Low,Bachelor's
-74694.0,1120.0,Black,Low (<3 hrs/day),1040.0,No,Low,Medium,High school
+74694.0,1120.0,Minority,Low (<3 hrs/day),1040.0,No,Low,Medium,High school
 86586.0,1230.0,White,Low (<3 hrs/day),1160.0,Yes,High,High,High school
-77392.0,1100.0,Asian,High (≥3 hrs/day),1250.0,No,Medium,Low,High school
-55539.0,740.0,Asian,High (≥3 hrs/day),940.0,No,High,Medium,High school
+77392.0,1100.0,Minority,High (≥3 hrs/day),1250.0,No,Medium,Low,High school
+55539.0,740.0,Minority,High (≥3 hrs/day),940.0,No,High,Medium,High school
 98931.0,940.0,White,High (≥3 hrs/day),1100.0,Yes,Low,Low,Graduate
-71829.0,1370.0,Asian,High (≥3 hrs/day),1500.0,Yes,Low,Medium,High school
+71829.0,1370.0,Minority,High (≥3 hrs/day),1500.0,Yes,Low,Medium,High school
 74454.0,1060.0,White,High (≥3 hrs/day),1260.0,Yes,Low,Medium,Graduate
-56335.0,940.0,Other,Low (<3 hrs/day),1020.0,Yes,Medium,High,Some college
-66134.0,1030.0,Asian,High (≥3 hrs/day),1220.0,No,Medium,High,High school
-57304.0,820.0,Black,Low (<3 hrs/day),880.0,No,High,Medium,Bachelor's
+56335.0,940.0,Minority,Low (<3 hrs/day),1020.0,Yes,Medium,High,Some college
+66134.0,1030.0,Minority,High (≥3 hrs/day),1220.0,No,Medium,High,High school
+57304.0,820.0,Minority,Low (<3 hrs/day),880.0,No,High,Medium,Bachelor's
 71541.0,970.0,White,Low (<3 hrs/day),1000.0,Yes,High,Medium,Bachelor's
-109234.0,890.0,Hispanic,Low (<3 hrs/day),900.0,Yes,Low,High,Some college
+109234.0,890.0,Minority,Low (<3 hrs/day),900.0,Yes,Low,High,Some college
 47562.0,950.0,White,High (≥3 hrs/day),1160.0,Yes,Low,High,Bachelor's
-42729.0,1080.0,Asian,High (≥3 hrs/day),1110.0,Yes,Low,Low,Bachelor's
+42729.0,1080.0,Minority,High (≥3 hrs/day),1110.0,Yes,Low,Low,Bachelor's
 104423.0,1150.0,White,Low (<3 hrs/day),1180.0,Yes,Low,Low,High school
-70814.0,850.0,Asian,Low (<3 hrs/day),960.0,Yes,Medium,Medium,Graduate
+70814.0,850.0,Minority,Low (<3 hrs/day),960.0,Yes,Medium,Medium,Graduate
 61619.0,790.0,White,Low (<3 hrs/day),880.0,No,Medium,High,Graduate
 95798.0,1060.0,White,High (≥3 hrs/day),1240.0,Yes,Low,High,Bachelor's
 62888.0,1040.0,White,Low (<3 hrs/day),1020.0,Yes,Low,High,High school
 111520.0,1080.0,White,High (≥3 hrs/day),1180.0,No,High,Low,Bachelor's
 88559.0,840.0,White,Low (<3 hrs/day),870.0,Yes,Medium,High,High school
-65242.0,1110.0,Black,High (≥3 hrs/day),1180.0,No,High,Medium,High school
+65242.0,1110.0,Minority,High (≥3 hrs/day),1180.0,No,High,Medium,High school
 118146.0,910.0,White,High (≥3 hrs/day),1010.0,No,Low,High,Some college
 62886.0,1130.0,White,Low (<3 hrs/day),1100.0,Yes,Medium,Medium,Some college
-89842.0,1070.0,Black,Low (<3 hrs/day),1050.0,Yes,High,Medium,Graduate
+89842.0,1070.0,Minority,Low (<3 hrs/day),1050.0,Yes,High,Medium,Graduate
 80986.0,1010.0,White,Low (<3 hrs/day),1000.0,Yes,Medium,Low,Bachelor's
-101035.0,870.0,Asian,Low (<3 hrs/day),1010.0,Yes,Medium,High,Bachelor's
+101035.0,870.0,Minority,Low (<3 hrs/day),1010.0,Yes,Medium,High,Bachelor's
 106230.0,830.0,White,High (≥3 hrs/day),970.0,Yes,High,High,Some college
 75640.0,900.0,White,High (≥3 hrs/day),1000.0,No,High,High,Some college
 59932.0,850.0,White,High (≥3 hrs/day),1100.0,Yes,Medium,Low,Some college
-84199.0,1030.0,Asian,High (≥3 hrs/day),1140.0,Yes,Medium,Low,Graduate
+84199.0,1030.0,Minority,High (≥3 hrs/day),1140.0,Yes,Medium,Low,Graduate
 61446.0,960.0,White,High (≥3 hrs/day),940.0,Yes,Medium,Medium,High school
-115268.0,1020.0,Hispanic,High (≥3 hrs/day),1040.0,No,Medium,Medium,Graduate
+115268.0,1020.0,Minority,High (≥3 hrs/day),1040.0,No,Medium,Medium,Graduate
 77731.0,980.0,White,High (≥3 hrs/day),1120.0,Yes,Low,Medium,Bachelor's
-67694.0,1010.0,Hispanic,High (≥3 hrs/day),1130.0,Yes,Medium,High,Some college
+67694.0,1010.0,Minority,High (≥3 hrs/day),1130.0,Yes,Medium,High,Some college
 78694.0,1000.0,White,High (≥3 hrs/day),1210.0,Yes,Medium,Low,Bachelor's
-48057.0,990.0,Hispanic,High (≥3 hrs/day),1070.0,No,Low,Medium,Some college
-55568.0,1040.0,Asian,Low (<3 hrs/day),1070.0,Yes,Medium,Medium,Graduate
-99008.0,810.0,Black,High (≥3 hrs/day),950.0,No,High,Medium,Graduate
-61862.0,870.0,Asian,High (≥3 hrs/day),1000.0,No,High,High,Some college
-54062.0,900.0,Hispanic,Low (<3 hrs/day),920.0,Yes,Medium,High,Some college
-85733.0,620.0,Hispanic,High (≥3 hrs/day),830.0,No,Medium,Medium,Bachelor's
+48057.0,990.0,Minority,High (≥3 hrs/day),1070.0,No,Low,Medium,Some college
+55568.0,1040.0,Minority,Low (<3 hrs/day),1070.0,Yes,Medium,Medium,Graduate
+99008.0,810.0,Minority,High (≥3 hrs/day),950.0,No,High,Medium,Graduate
+61862.0,870.0,Minority,High (≥3 hrs/day),1000.0,No,High,High,Some college
+54062.0,900.0,Minority,Low (<3 hrs/day),920.0,Yes,Medium,High,Some college
+85733.0,620.0,Minority,High (≥3 hrs/day),830.0,No,Medium,Medium,Bachelor's
 98714.0,1230.0,White,High (≥3 hrs/day),1260.0,Yes,Medium,High,Graduate
-89379.0,890.0,Black,High (≥3 hrs/day),1060.0,No,High,Medium,High school
-94921.0,1010.0,Other,High (≥3 hrs/day),1050.0,No,High,High,Bachelor's
+89379.0,890.0,Minority,High (≥3 hrs/day),1060.0,No,High,Medium,High school
+94921.0,1010.0,Minority,High (≥3 hrs/day),1050.0,No,High,High,Bachelor's
 59864.0,930.0,White,High (≥3 hrs/day),1090.0,Yes,High,Medium,Bachelor's
-46564.0,880.0,Black,High (≥3 hrs/day),1020.0,Yes,High,High,Bachelor's
+46564.0,880.0,Minority,High (≥3 hrs/day),1020.0,Yes,High,High,Bachelor's
 105027.0,840.0,White,Low (<3 hrs/day),910.0,No,Medium,Medium,High school
-68546.0,1070.0,Black,High (≥3 hrs/day),1170.0,Yes,High,Medium,Bachelor's
+68546.0,1070.0,Minority,High (≥3 hrs/day),1170.0,Yes,High,Medium,Bachelor's
 69983.0,1060.0,White,High (≥3 hrs/day),1220.0,Yes,Medium,High,Graduate
-101564.0,1010.0,Black,High (≥3 hrs/day),1090.0,Yes,Low,Medium,High school
+101564.0,1010.0,Minority,High (≥3 hrs/day),1090.0,Yes,Low,Medium,High school
 86125.0,1160.0,White,High (≥3 hrs/day),1330.0,No,High,Medium,High school
-84118.0,1090.0,Asian,Low (<3 hrs/day),1130.0,No,Medium,Medium,Graduate
-118300.0,930.0,Hispanic,Low (<3 hrs/day),890.0,Yes,Medium,Low,High school
-62130.0,1010.0,Black,Low (<3 hrs/day),910.0,Yes,High,Medium,Graduate
+84118.0,1090.0,Minority,Low (<3 hrs/day),1130.0,No,Medium,Medium,Graduate
+118300.0,930.0,Minority,Low (<3 hrs/day),890.0,Yes,Medium,Low,High school
+62130.0,1010.0,Minority,Low (<3 hrs/day),910.0,Yes,High,Medium,Graduate
 93557.0,950.0,White,High (≥3 hrs/day),1150.0,Yes,Medium,High,Some college
-76140.0,1280.0,Hispanic,Low (<3 hrs/day),1140.0,No,Low,High,High school
-80372.0,1020.0,Asian,High (≥3 hrs/day),1200.0,Yes,Low,High,Graduate
-105569.0,690.0,Black,High (≥3 hrs/day),830.0,No,High,Medium,Some college
+76140.0,1280.0,Minority,Low (<3 hrs/day),1140.0,No,Low,High,High school
+80372.0,1020.0,Minority,High (≥3 hrs/day),1200.0,Yes,Low,High,Graduate
+105569.0,690.0,Minority,High (≥3 hrs/day),830.0,No,High,Medium,Some college
 85157.0,1310.0,White,High (≥3 hrs/day),1370.0,Yes,Low,High,Some college
-85766.0,790.0,Black,High (≥3 hrs/day),1000.0,No,Medium,Medium,Some college
+85766.0,790.0,Minority,High (≥3 hrs/day),1000.0,No,Medium,Medium,Some college
 96450.0,1290.0,White,High (≥3 hrs/day),1260.0,Yes,High,Medium,Bachelor's
-67701.0,1010.0,Black,High (≥3 hrs/day),970.0,Yes,Medium,Medium,High school
+67701.0,1010.0,Minority,High (≥3 hrs/day),970.0,Yes,Medium,Medium,High school
 58216.0,1010.0,White,Low (<3 hrs/day),940.0,Yes,Low,Medium,Some college
 54104.0,1050.0,White,High (≥3 hrs/day),1140.0,No,Medium,High,Graduate
 35673.0,980.0,White,High (≥3 hrs/day),1090.0,No,High,High,Some college
-116124.0,1090.0,Black,High (≥3 hrs/day),1210.0,Yes,Medium,Medium,Bachelor's
-52936.0,950.0,Asian,High (≥3 hrs/day),1020.0,No,High,Medium,Some college
-70575.0,800.0,Asian,High (≥3 hrs/day),870.0,No,High,Medium,Bachelor's
-69464.0,1060.0,Other,High (≥3 hrs/day),1170.0,No,High,Medium,High school
-81148.0,1040.0,Hispanic,High (≥3 hrs/day),1220.0,Yes,High,High,Graduate
+116124.0,1090.0,Minority,High (≥3 hrs/day),1210.0,Yes,Medium,Medium,Bachelor's
+52936.0,950.0,Minority,High (≥3 hrs/day),1020.0,No,High,Medium,Some college
+70575.0,800.0,Minority,High (≥3 hrs/day),870.0,No,High,Medium,Bachelor's
+69464.0,1060.0,Minority,High (≥3 hrs/day),1170.0,No,High,Medium,High school
+81148.0,1040.0,Minority,High (≥3 hrs/day),1220.0,Yes,High,High,Graduate
 91315.0,1010.0,White,High (≥3 hrs/day),1130.0,Yes,High,Low,Some college
-92209.0,1170.0,Hispanic,High (≥3 hrs/day),1260.0,Yes,High,Medium,High school
+92209.0,1170.0,Minority,High (≥3 hrs/day),1260.0,Yes,High,Medium,High school
 63338.0,1070.0,White,Low (<3 hrs/day),1000.0,No,Medium,Medium,High school
-71658.0,1080.0,Hispanic,High (≥3 hrs/day),1180.0,No,High,High,High school
-80652.0,1030.0,Black,High (≥3 hrs/day),1100.0,No,High,Medium,Some college
-70026.0,870.0,Black,Low (<3 hrs/day),1000.0,Yes,Low,Medium,Some college
+71658.0,1080.0,Minority,High (≥3 hrs/day),1180.0,No,High,High,High school
+80652.0,1030.0,Minority,High (≥3 hrs/day),1100.0,No,High,Medium,Some college
+70026.0,870.0,Minority,Low (<3 hrs/day),1000.0,Yes,Low,Medium,Some college
 107147.0,910.0,White,High (≥3 hrs/day),1040.0,Yes,Medium,High,Bachelor's
 84819.0,1020.0,White,High (≥3 hrs/day),1100.0,No,Medium,Low,Some college
 89698.0,900.0,White,Low (<3 hrs/day),940.0,No,High,High,High school
-88258.0,1080.0,Black,High (≥3 hrs/day),1120.0,No,High,Low,Bachelor's
-98469.0,1090.0,Hispanic,Low (<3 hrs/day),1050.0,No,High,Medium,Bachelor's
-78620.0,1100.0,Black,High (≥3 hrs/day),1100.0,No,High,High,High school
+88258.0,1080.0,Minority,High (≥3 hrs/day),1120.0,No,High,Low,Bachelor's
+98469.0,1090.0,Minority,Low (<3 hrs/day),1050.0,No,High,Medium,Bachelor's
+78620.0,1100.0,Minority,High (≥3 hrs/day),1100.0,No,High,High,High school
 49063.0,1200.0,White,High (≥3 hrs/day),1280.0,Yes,High,Medium,High school
 82994.0,880.0,White,High (≥3 hrs/day),980.0,Yes,High,Low,High school
 61973.0,710.0,White,High (≥3 hrs/day),1040.0,No,High,Medium,Bachelor's
 64428.0,1010.0,White,Low (<3 hrs/day),1000.0,No,High,Low,Bachelor's
 86727.0,1150.0,White,High (≥3 hrs/day),1350.0,Yes,Medium,Medium,Some college
 99766.0,900.0,White,Low (<3 hrs/day),860.0,Yes,High,Medium,Bachelor's
-75425.0,970.0,Hispanic,High (≥3 hrs/day),1050.0,No,High,Low,Bachelor's
+75425.0,970.0,Minority,High (≥3 hrs/day),1050.0,No,High,Low,Bachelor's
 81177.0,1010.0,White,High (≥3 hrs/day),1080.0,Yes,Medium,High,Bachelor's
-109044.0,970.0,Hispanic,High (≥3 hrs/day),1000.0,Yes,Medium,Medium,Graduate
+109044.0,970.0,Minority,High (≥3 hrs/day),1000.0,Yes,Medium,Medium,Graduate
 79815.0,1080.0,White,Low (<3 hrs/day),1110.0,Yes,High,High,High school
-127034.0,1020.0,Hispanic,High (≥3 hrs/day),1010.0,No,Medium,Low,High school
+127034.0,1020.0,Minority,High (≥3 hrs/day),1010.0,No,Medium,Low,High school
 86310.0,800.0,White,High (≥3 hrs/day),1060.0,No,Medium,Low,Some college
 39785.0,1270.0,White,High (≥3 hrs/day),1310.0,Yes,High,High,High school
 90067.0,1100.0,White,High (≥3 hrs/day),1130.0,No,Low,Medium,Some college
-82623.0,1010.0,Asian,Low (<3 hrs/day),1110.0,Yes,Low,Low,Graduate
-100795.0,1020.0,Hispanic,Low (<3 hrs/day),900.0,Yes,High,High,High school
+82623.0,1010.0,Minority,Low (<3 hrs/day),1110.0,Yes,Low,Low,Graduate
+100795.0,1020.0,Minority,Low (<3 hrs/day),900.0,Yes,High,High,High school
 88464.0,850.0,White,High (≥3 hrs/day),950.0,No,High,Medium,High school
-72231.0,830.0,Asian,High (≥3 hrs/day),1050.0,No,Low,Low,Some college
+72231.0,830.0,Minority,High (≥3 hrs/day),1050.0,No,Low,Low,Some college
 50514.0,870.0,White,High (≥3 hrs/day),960.0,No,Medium,High,Graduate
-70820.0,1110.0,Black,Low (<3 hrs/day),1040.0,No,High,Medium,Some college
-57990.0,1260.0,Hispanic,Low (<3 hrs/day),1090.0,No,High,High,Some college
+70820.0,1110.0,Minority,Low (<3 hrs/day),1040.0,No,High,Medium,Some college
+57990.0,1260.0,Minority,Low (<3 hrs/day),1090.0,No,High,High,Some college
 63390.0,1140.0,White,Low (<3 hrs/day),1170.0,Yes,High,Low,High school
 86772.0,960.0,White,Low (<3 hrs/day),1130.0,Yes,Medium,Low,High school
-108398.0,1100.0,Asian,High (≥3 hrs/day),1260.0,Yes,Medium,Low,Graduate
+108398.0,1100.0,Minority,High (≥3 hrs/day),1260.0,Yes,Medium,Low,Graduate
 82893.0,1210.0,White,Low (<3 hrs/day),1130.0,Yes,High,Medium,Graduate
 51082.0,900.0,White,High (≥3 hrs/day),1000.0,No,Medium,Low,High school
-83892.0,1170.0,Black,High (≥3 hrs/day),1150.0,Yes,Medium,Low,Graduate
-98933.0,1120.0,Black,Low (<3 hrs/day),1070.0,No,High,Medium,Bachelor's
-62804.0,880.0,Hispanic,Low (<3 hrs/day),830.0,No,High,Low,Graduate
+83892.0,1170.0,Minority,High (≥3 hrs/day),1150.0,Yes,Medium,Low,Graduate
+98933.0,1120.0,Minority,Low (<3 hrs/day),1070.0,No,High,Medium,Bachelor's
+62804.0,880.0,Minority,Low (<3 hrs/day),830.0,No,High,Low,Graduate
 72320.0,1090.0,White,High (≥3 hrs/day),1240.0,No,Medium,High,Some college
-75294.0,1330.0,Hispanic,High (≥3 hrs/day),1280.0,Yes,Low,Medium,Some college
+75294.0,1330.0,Minority,High (≥3 hrs/day),1280.0,Yes,Low,Medium,Some college
 59302.0,970.0,White,High (≥3 hrs/day),1110.0,No,Medium,High,Some college
-87966.0,1160.0,Black,Low (<3 hrs/day),1100.0,Yes,Medium,High,Bachelor's
-72581.0,960.0,Asian,Low (<3 hrs/day),940.0,Yes,High,High,High school
+87966.0,1160.0,Minority,Low (<3 hrs/day),1100.0,Yes,Medium,High,Bachelor's
+72581.0,960.0,Minority,Low (<3 hrs/day),940.0,Yes,High,High,High school
 83391.0,1140.0,White,High (≥3 hrs/day),1250.0,No,Medium,Medium,High school
 57250.0,900.0,White,Low (<3 hrs/day),950.0,Yes,Medium,Medium,Some college
 66251.0,940.0,White,Low (<3 hrs/day),990.0,Yes,High,Medium,Bachelor's
-89448.0,1050.0,Black,High (≥3 hrs/day),1120.0,No,High,High,High school
+89448.0,1050.0,Minority,High (≥3 hrs/day),1120.0,No,High,High,High school
 67543.0,1190.0,White,Low (<3 hrs/day),1270.0,Yes,High,Medium,Bachelor's
-109539.0,1210.0,Black,Low (<3 hrs/day),1090.0,No,High,Medium,Graduate
+109539.0,1210.0,Minority,Low (<3 hrs/day),1090.0,No,High,Medium,Graduate
 67007.0,950.0,White,Low (<3 hrs/day),1020.0,No,High,Medium,High school
-79494.0,1150.0,Black,Low (<3 hrs/day),1150.0,No,High,Medium,Bachelor's
+79494.0,1150.0,Minority,Low (<3 hrs/day),1150.0,No,High,Medium,Bachelor's
 93652.0,1120.0,White,Low (<3 hrs/day),1270.0,Yes,High,Medium,Some college
-46633.0,1250.0,Black,Low (<3 hrs/day),1220.0,Yes,High,Low,Graduate
-39784.0,950.0,Black,Low (<3 hrs/day),940.0,No,Low,Medium,High school
-44487.0,910.0,Black,Low (<3 hrs/day),860.0,Yes,Medium,High,Bachelor's
-100252.0,1200.0,Asian,Low (<3 hrs/day),1120.0,No,Medium,High,Bachelor's
+46633.0,1250.0,Minority,Low (<3 hrs/day),1220.0,Yes,High,Low,Graduate
+39784.0,950.0,Minority,Low (<3 hrs/day),940.0,No,Low,Medium,High school
+44487.0,910.0,Minority,Low (<3 hrs/day),860.0,Yes,Medium,High,Bachelor's
+100252.0,1200.0,Minority,Low (<3 hrs/day),1120.0,No,Medium,High,Bachelor's
 63963.0,840.0,White,Low (<3 hrs/day),970.0,No,Medium,Low,Graduate
 126164.0,920.0,White,High (≥3 hrs/day),1080.0,No,Medium,High,Bachelor's
 63715.0,890.0,White,Low (<3 hrs/day),930.0,Yes,High,Low,Some college
-78691.0,1060.0,Asian,Low (<3 hrs/day),1030.0,Yes,Medium,Medium,Bachelor's
+78691.0,1060.0,Minority,Low (<3 hrs/day),1030.0,Yes,Medium,Medium,Bachelor's
 105842.0,890.0,White,High (≥3 hrs/day),1080.0,No,Medium,Low,Graduate
 115122.0,890.0,White,Low (<3 hrs/day),990.0,Yes,Medium,Medium,Bachelor's
 116230.0,1080.0,White,High (≥3 hrs/day),1320.0,Yes,Medium,Low,High school
-99167.0,1250.0,Black,Low (<3 hrs/day),1170.0,No,High,Medium,Graduate
+99167.0,1250.0,Minority,Low (<3 hrs/day),1170.0,No,High,Medium,Graduate
 95481.0,1100.0,White,High (≥3 hrs/day),1200.0,No,High,Medium,Bachelor's
 86851.0,1100.0,White,High (≥3 hrs/day),1150.0,No,High,Medium,Bachelor's
-90567.0,990.0,Asian,High (≥3 hrs/day),1130.0,No,Medium,Medium,High school
+90567.0,990.0,Minority,High (≥3 hrs/day),1130.0,No,Medium,Medium,High school
 63976.0,1060.0,White,High (≥3 hrs/day),1220.0,Yes,Medium,Medium,Bachelor's
 58636.0,960.0,White,Low (<3 hrs/day),990.0,No,High,Low,Some college
 74933.0,940.0,White,High (≥3 hrs/day),940.0,No,Low,Low,Bachelor's
 71596.0,820.0,White,High (≥3 hrs/day),950.0,Yes,Medium,Medium,High school
-65935.0,960.0,Black,High (≥3 hrs/day),1080.0,Yes,High,Medium,Bachelor's
+65935.0,960.0,Minority,High (≥3 hrs/day),1080.0,Yes,High,Medium,Bachelor's
 88928.0,990.0,White,Low (<3 hrs/day),960.0,No,High,Medium,Graduate
 94106.0,1140.0,White,Low (<3 hrs/day),1120.0,No,High,Medium,High school
-76768.0,1030.0,Hispanic,High (≥3 hrs/day),1200.0,No,High,High,Graduate
+76768.0,1030.0,Minority,High (≥3 hrs/day),1200.0,No,High,High,Graduate
 104551.0,980.0,White,High (≥3 hrs/day),1220.0,No,High,High,Some college
 52166.0,780.0,White,High (≥3 hrs/day),890.0,Yes,High,Medium,Graduate
-71127.0,740.0,Asian,High (≥3 hrs/day),880.0,Yes,High,High,Bachelor's
+71127.0,740.0,Minority,High (≥3 hrs/day),880.0,Yes,High,High,Bachelor's
 60664.0,1000.0,White,Low (<3 hrs/day),1080.0,No,High,High,Bachelor's
-37669.0,940.0,Asian,Low (<3 hrs/day),950.0,No,Low,High,Bachelor's
-73346.0,1020.0,Hispanic,High (≥3 hrs/day),1070.0,No,High,High,Graduate
+37669.0,940.0,Minority,Low (<3 hrs/day),950.0,No,Low,High,Bachelor's
+73346.0,1020.0,Minority,High (≥3 hrs/day),1070.0,No,High,High,Graduate
 72565.0,900.0,White,High (≥3 hrs/day),980.0,No,Medium,High,Some college
-105269.0,1050.0,Asian,Low (<3 hrs/day),1160.0,Yes,Medium,Low,Some college
+105269.0,1050.0,Minority,Low (<3 hrs/day),1160.0,Yes,Medium,Low,Some college
 87616.0,850.0,White,Low (<3 hrs/day),910.0,Yes,Low,Medium,Bachelor's
-54516.0,1160.0,Black,Low (<3 hrs/day),1110.0,No,High,Medium,Bachelor's
-112082.0,1170.0,Black,High (≥3 hrs/day),1180.0,No,High,Medium,Bachelor's
+54516.0,1160.0,Minority,Low (<3 hrs/day),1110.0,No,High,Medium,Bachelor's
+112082.0,1170.0,Minority,High (≥3 hrs/day),1180.0,No,High,Medium,Bachelor's
 99421.0,600.0,White,High (≥3 hrs/day),820.0,No,Low,High,Bachelor's
-86642.0,970.0,Black,Low (<3 hrs/day),960.0,No,Low,Low,Some college
-70470.0,780.0,Hispanic,High (≥3 hrs/day),920.0,No,Low,Medium,Bachelor's
-55811.0,990.0,Hispanic,Low (<3 hrs/day),910.0,Yes,High,High,High school
-67556.0,770.0,Hispanic,Low (<3 hrs/day),670.0,Yes,High,Medium,Some college
+86642.0,970.0,Minority,Low (<3 hrs/day),960.0,No,Low,Low,Some college
+70470.0,780.0,Minority,High (≥3 hrs/day),920.0,No,Low,Medium,Bachelor's
+55811.0,990.0,Minority,Low (<3 hrs/day),910.0,Yes,High,High,High school
+67556.0,770.0,Minority,Low (<3 hrs/day),670.0,Yes,High,Medium,Some college
 96775.0,640.0,White,Low (<3 hrs/day),720.0,Yes,Medium,Low,High school
 112692.0,1000.0,White,Low (<3 hrs/day),1050.0,No,Low,Low,Some college
-105865.0,1050.0,Black,High (≥3 hrs/day),1150.0,Yes,Medium,Medium,Some college
+105865.0,1050.0,Minority,High (≥3 hrs/day),1150.0,Yes,Medium,Medium,Some college
 65223.0,1010.0,White,High (≥3 hrs/day),1220.0,Yes,Medium,Medium,Some college
 52608.0,1280.0,White,High (≥3 hrs/day),1370.0,Yes,High,High,Bachelor's
-77818.0,1110.0,Black,High (≥3 hrs/day),1280.0,Yes,Medium,Low,Some college
-39631.0,940.0,Black,High (≥3 hrs/day),920.0,No,High,High,Some college
-81463.0,850.0,Other,Low (<3 hrs/day),770.0,Yes,High,Low,High school
+77818.0,1110.0,Minority,High (≥3 hrs/day),1280.0,Yes,Medium,Low,Some college
+39631.0,940.0,Minority,High (≥3 hrs/day),920.0,No,High,High,Some college
+81463.0,850.0,Minority,Low (<3 hrs/day),770.0,Yes,High,Low,High school
 72048.0,920.0,White,Low (<3 hrs/day),940.0,Yes,Medium,Medium,Some college
-65679.0,920.0,Other,High (≥3 hrs/day),1070.0,No,Medium,Medium,High school
-43106.0,1070.0,Hispanic,Low (<3 hrs/day),1040.0,Yes,High,Medium,High school
-85272.0,940.0,Other,High (≥3 hrs/day),1160.0,Yes,High,High,Bachelor's
+65679.0,920.0,Minority,High (≥3 hrs/day),1070.0,No,Medium,Medium,High school
+43106.0,1070.0,Minority,Low (<3 hrs/day),1040.0,Yes,High,Medium,High school
+85272.0,940.0,Minority,High (≥3 hrs/day),1160.0,Yes,High,High,Bachelor's
 64346.0,1040.0,White,High (≥3 hrs/day),1160.0,Yes,Medium,High,Bachelor's
-51602.0,1060.0,Black,High (≥3 hrs/day),1140.0,No,High,High,Bachelor's
-30000.0,1020.0,Black,High (≥3 hrs/day),1070.0,Yes,Medium,High,Some college
-74450.0,930.0,Asian,Low (<3 hrs/day),930.0,No,High,Medium,Some college
-110445.0,1060.0,Hispanic,Low (<3 hrs/day),1070.0,Yes,Medium,Medium,Graduate
+51602.0,1060.0,Minority,High (≥3 hrs/day),1140.0,No,High,High,Bachelor's
+30000.0,1020.0,Minority,High (≥3 hrs/day),1070.0,Yes,Medium,High,Some college
+74450.0,930.0,Minority,Low (<3 hrs/day),930.0,No,High,Medium,Some college
+110445.0,1060.0,Minority,Low (<3 hrs/day),1070.0,Yes,Medium,Medium,Graduate
 108225.0,1160.0,White,Low (<3 hrs/day),1120.0,Yes,Medium,High,Some college
 65858.0,690.0,White,Low (<3 hrs/day),760.0,Yes,High,Low,Some college
 62956.0,1270.0,White,High (≥3 hrs/day),1330.0,Yes,High,Low,High school
 84375.0,870.0,White,High (≥3 hrs/day),990.0,No,High,Low,Some college
 55032.0,780.0,White,High (≥3 hrs/day),960.0,No,High,Low,Some college
-81036.0,1120.0,Black,High (≥3 hrs/day),1170.0,No,Low,High,Some college
+81036.0,1120.0,Minority,High (≥3 hrs/day),1170.0,No,Low,High,Some college
 90322.0,1040.0,White,Low (<3 hrs/day),1190.0,Yes,High,Medium,Bachelor's
 99539.0,1020.0,White,High (≥3 hrs/day),1120.0,Yes,Low,Medium,Some college
 72997.0,1090.0,White,High (≥3 hrs/day),1260.0,No,High,Medium,Bachelor's
 70927.0,1090.0,White,Low (<3 hrs/day),990.0,Yes,Medium,High,Bachelor's
 57440.0,1080.0,White,Low (<3 hrs/day),1120.0,Yes,Medium,Low,Bachelor's
 58462.0,1010.0,White,High (≥3 hrs/day),1150.0,Yes,Medium,High,Bachelor's
-70470.0,600.0,Black,Low (<3 hrs/day),580.0,Yes,Medium,High,Graduate
-82347.0,1100.0,Black,High (≥3 hrs/day),1220.0,No,Medium,Medium,High school
+70470.0,600.0,Minority,Low (<3 hrs/day),580.0,Yes,Medium,High,Graduate
+82347.0,1100.0,Minority,High (≥3 hrs/day),1220.0,No,Medium,Medium,High school
 93272.0,1080.0,White,High (≥3 hrs/day),1180.0,No,High,Medium,High school
 58936.0,900.0,White,Low (<3 hrs/day),930.0,No,Low,Medium,High school
 104854.0,910.0,White,Low (<3 hrs/day),960.0,Yes,Low,High,Bachelor's
-69578.0,1070.0,Asian,Low (<3 hrs/day),1170.0,Yes,Low,Low,Graduate
-74573.0,920.0,Black,High (≥3 hrs/day),1000.0,Yes,High,High,High school
-60056.0,790.0,Asian,High (≥3 hrs/day),1030.0,Yes,Medium,High,Graduate
+69578.0,1070.0,Minority,Low (<3 hrs/day),1170.0,Yes,Low,Low,Graduate
+74573.0,920.0,Minority,High (≥3 hrs/day),1000.0,Yes,High,High,High school
+60056.0,790.0,Minority,High (≥3 hrs/day),1030.0,Yes,Medium,High,Graduate
 30000.0,790.0,White,High (≥3 hrs/day),990.0,Yes,Low,Low,High school
 92681.0,1040.0,White,High (≥3 hrs/day),1090.0,No,High,Low,Graduate
 89737.0,1030.0,White,Low (<3 hrs/day),1050.0,No,High,Low,Some college
 69373.0,1190.0,White,High (≥3 hrs/day),1250.0,Yes,Medium,Low,High school
-76340.0,860.0,Asian,High (≥3 hrs/day),1100.0,No,Medium,Medium,Some college
+76340.0,860.0,Minority,High (≥3 hrs/day),1100.0,No,Medium,Medium,Some college
 85319.0,1140.0,White,Low (<3 hrs/day),1220.0,No,Low,Medium,Some college
-43749.0,990.0,Hispanic,Low (<3 hrs/day),970.0,No,High,High,Some college
+43749.0,990.0,Minority,Low (<3 hrs/day),970.0,No,High,High,Some college
 64419.0,840.0,White,High (≥3 hrs/day),1090.0,No,Medium,Medium,Some college
 90885.0,1040.0,White,High (≥3 hrs/day),1150.0,Yes,High,Medium,Bachelor's
-49914.0,1080.0,Asian,Low (<3 hrs/day),1150.0,Yes,High,High,Some college
+49914.0,1080.0,Minority,Low (<3 hrs/day),1150.0,Yes,High,High,Some college
 80871.0,1240.0,White,High (≥3 hrs/day),1240.0,Yes,High,Medium,Some college
 47868.0,830.0,White,High (≥3 hrs/day),980.0,No,Low,Medium,Bachelor's
 84329.0,750.0,White,High (≥3 hrs/day),960.0,Yes,Medium,High,Bachelor's
-74287.0,1130.0,Hispanic,High (≥3 hrs/day),1250.0,Yes,Medium,High,Some college
+74287.0,1130.0,Minority,High (≥3 hrs/day),1250.0,Yes,Medium,High,Some college
 42697.0,920.0,White,High (≥3 hrs/day),1020.0,Yes,High,Medium,Some college
 98295.0,1020.0,White,Low (<3 hrs/day),1000.0,Yes,Low,High,High school
-60308.0,950.0,Hispanic,High (≥3 hrs/day),1110.0,No,High,Low,High school
+60308.0,950.0,Minority,High (≥3 hrs/day),1110.0,No,High,Low,High school
 58795.0,1020.0,White,Low (<3 hrs/day),990.0,No,Low,Medium,Bachelor's
-79011.0,800.0,Hispanic,High (≥3 hrs/day),960.0,Yes,Medium,Medium,High school
+79011.0,800.0,Minority,High (≥3 hrs/day),960.0,Yes,Medium,Medium,High school
 97973.0,1440.0,White,Low (<3 hrs/day),1390.0,Yes,High,Medium,Some college
-54684.0,950.0,Black,High (≥3 hrs/day),1110.0,Yes,Medium,Low,Bachelor's
-76234.0,960.0,Asian,High (≥3 hrs/day),1090.0,Yes,High,Medium,High school
-83576.0,840.0,Black,High (≥3 hrs/day),1000.0,Yes,Medium,Medium,Bachelor's
-88862.0,1010.0,Asian,Low (<3 hrs/day),1100.0,Yes,Medium,Medium,Some college
-78529.0,1060.0,Hispanic,Low (<3 hrs/day),1070.0,Yes,High,High,Graduate
+54684.0,950.0,Minority,High (≥3 hrs/day),1110.0,Yes,Medium,Low,Bachelor's
+76234.0,960.0,Minority,High (≥3 hrs/day),1090.0,Yes,High,Medium,High school
+83576.0,840.0,Minority,High (≥3 hrs/day),1000.0,Yes,Medium,Medium,Bachelor's
+88862.0,1010.0,Minority,Low (<3 hrs/day),1100.0,Yes,Medium,Medium,Some college
+78529.0,1060.0,Minority,Low (<3 hrs/day),1070.0,Yes,High,High,Graduate
 67659.0,1040.0,White,High (≥3 hrs/day),1120.0,No,Low,Low,Some college
-58448.0,960.0,Asian,High (≥3 hrs/day),1080.0,No,High,Medium,Bachelor's
-76723.0,860.0,Asian,High (≥3 hrs/day),1230.0,Yes,Medium,Medium,Bachelor's
-53557.0,1060.0,Black,Low (<3 hrs/day),1000.0,Yes,Low,Low,High school
+58448.0,960.0,Minority,High (≥3 hrs/day),1080.0,No,High,Medium,Bachelor's
+76723.0,860.0,Minority,High (≥3 hrs/day),1230.0,Yes,Medium,Medium,Bachelor's
+53557.0,1060.0,Minority,Low (<3 hrs/day),1000.0,Yes,Low,Low,High school
 30000.0,950.0,White,Low (<3 hrs/day),1020.0,No,Medium,Low,Bachelor's
 83731.0,790.0,White,Low (<3 hrs/day),890.0,Yes,High,Medium,Graduate
 93079.0,860.0,White,High (≥3 hrs/day),1100.0,No,Low,Low,Bachelor's
 30000.0,920.0,White,High (≥3 hrs/day),1080.0,No,Medium,Medium,Bachelor's
-54805.0,920.0,Asian,Low (<3 hrs/day),940.0,Yes,High,Medium,Graduate
+54805.0,920.0,Minority,Low (<3 hrs/day),940.0,Yes,High,Medium,Graduate
 87383.0,600.0,White,High (≥3 hrs/day),850.0,Yes,High,Medium,High school
-116150.0,1060.0,Other,High (≥3 hrs/day),1100.0,No,Medium,Medium,High school
+116150.0,1060.0,Minority,High (≥3 hrs/day),1100.0,No,Medium,Medium,High school
 75416.0,1020.0,White,Low (<3 hrs/day),1040.0,Yes,Medium,High,Bachelor's
 60440.0,910.0,White,High (≥3 hrs/day),1020.0,No,Medium,Low,Some college
 71342.0,1030.0,White,High (≥3 hrs/day),1210.0,No,Low,Low,Bachelor's
-102498.0,1000.0,Other,High (≥3 hrs/day),1140.0,No,Medium,High,Graduate
+102498.0,1000.0,Minority,High (≥3 hrs/day),1140.0,No,Medium,High,Graduate
 62081.0,950.0,White,High (≥3 hrs/day),1070.0,Yes,High,Low,Some college
 59016.0,950.0,White,High (≥3 hrs/day),960.0,No,High,High,High school
-65345.0,930.0,Black,Low (<3 hrs/day),900.0,Yes,High,Medium,Bachelor's
-55933.0,1040.0,Other,Low (<3 hrs/day),1020.0,Yes,Medium,Medium,Some college
-77453.0,970.0,Asian,Low (<3 hrs/day),940.0,No,High,High,Bachelor's
+65345.0,930.0,Minority,Low (<3 hrs/day),900.0,Yes,High,Medium,Bachelor's
+55933.0,1040.0,Minority,Low (<3 hrs/day),1020.0,Yes,Medium,Medium,Some college
+77453.0,970.0,Minority,Low (<3 hrs/day),940.0,No,High,High,Bachelor's
 107494.0,1100.0,White,High (≥3 hrs/day),1200.0,Yes,Medium,Low,Some college
 81462.0,970.0,White,High (≥3 hrs/day),1170.0,No,Medium,Low,Bachelor's
 69953.0,930.0,White,Low (<3 hrs/day),920.0,No,Low,Medium,High school
 69164.0,1070.0,White,Low (<3 hrs/day),1060.0,Yes,High,High,Bachelor's
-43736.0,980.0,Hispanic,High (≥3 hrs/day),1090.0,Yes,Low,High,Some college
-92662.0,920.0,Hispanic,High (≥3 hrs/day),1000.0,Yes,High,Medium,Bachelor's
-73443.0,860.0,Hispanic,High (≥3 hrs/day),920.0,Yes,Low,Low,High school
+43736.0,980.0,Minority,High (≥3 hrs/day),1090.0,Yes,Low,High,Some college
+92662.0,920.0,Minority,High (≥3 hrs/day),1000.0,Yes,High,Medium,Bachelor's
+73443.0,860.0,Minority,High (≥3 hrs/day),920.0,Yes,Low,Low,High school
 71390.0,1160.0,White,High (≥3 hrs/day),1200.0,Yes,High,Medium,Bachelor's
-138862.0,1110.0,Asian,Low (<3 hrs/day),1090.0,No,High,High,Graduate
-80975.0,1020.0,Hispanic,High (≥3 hrs/day),1070.0,Yes,Medium,Medium,High school
+138862.0,1110.0,Minority,Low (<3 hrs/day),1090.0,No,High,High,Graduate
+80975.0,1020.0,Minority,High (≥3 hrs/day),1070.0,Yes,Medium,Medium,High school
 59964.0,870.0,White,High (≥3 hrs/day),1030.0,Yes,High,Medium,High school
-66473.0,1340.0,Asian,High (≥3 hrs/day),1440.0,No,High,Medium,High school
+66473.0,1340.0,Minority,High (≥3 hrs/day),1440.0,No,High,Medium,High school
 97969.0,1230.0,White,High (≥3 hrs/day),1350.0,Yes,Medium,High,Bachelor's
-77265.0,1170.0,Asian,High (≥3 hrs/day),1190.0,No,Medium,Medium,Bachelor's
-46234.0,1060.0,Asian,High (≥3 hrs/day),1100.0,Yes,Medium,Medium,Some college
-93385.0,960.0,Black,Low (<3 hrs/day),890.0,Yes,Medium,Low,High school
-61637.0,1110.0,Black,High (≥3 hrs/day),1140.0,No,Medium,Medium,Some college
-112466.0,1040.0,Black,Low (<3 hrs/day),1060.0,No,High,Medium,Bachelor's
+77265.0,1170.0,Minority,High (≥3 hrs/day),1190.0,No,Medium,Medium,Bachelor's
+46234.0,1060.0,Minority,High (≥3 hrs/day),1100.0,Yes,Medium,Medium,Some college
+93385.0,960.0,Minority,Low (<3 hrs/day),890.0,Yes,Medium,Low,High school
+61637.0,1110.0,Minority,High (≥3 hrs/day),1140.0,No,Medium,Medium,Some college
+112466.0,1040.0,Minority,Low (<3 hrs/day),1060.0,No,High,Medium,Bachelor's
 96601.0,1050.0,White,High (≥3 hrs/day),980.0,No,High,Low,Some college
-66054.0,940.0,Hispanic,Low (<3 hrs/day),890.0,No,High,High,Graduate
+66054.0,940.0,Minority,Low (<3 hrs/day),890.0,No,High,High,Graduate
 100620.0,1000.0,White,Low (<3 hrs/day),1000.0,No,Low,Low,High school
 76357.0,900.0,White,Low (<3 hrs/day),1010.0,Yes,Medium,Medium,Bachelor's
-92055.0,1120.0,Hispanic,High (≥3 hrs/day),1240.0,Yes,Medium,High,Some college
-84695.0,970.0,Black,Low (<3 hrs/day),1000.0,No,Medium,Medium,Some college
-58073.0,1330.0,Other,High (≥3 hrs/day),1370.0,No,Low,Medium,Bachelor's
-62129.0,920.0,Asian,High (≥3 hrs/day),1100.0,No,High,High,Bachelor's
-95599.0,1020.0,Other,High (≥3 hrs/day),1260.0,Yes,Medium,Medium,Graduate
+92055.0,1120.0,Minority,High (≥3 hrs/day),1240.0,Yes,Medium,High,Some college
+84695.0,970.0,Minority,Low (<3 hrs/day),1000.0,No,Medium,Medium,Some college
+58073.0,1330.0,Minority,High (≥3 hrs/day),1370.0,No,Low,Medium,Bachelor's
+62129.0,920.0,Minority,High (≥3 hrs/day),1100.0,No,High,High,Bachelor's
+95599.0,1020.0,Minority,High (≥3 hrs/day),1260.0,Yes,Medium,Medium,Graduate
 68304.0,1260.0,White,High (≥3 hrs/day),1410.0,Yes,Medium,Medium,High school
-66927.0,870.0,Black,High (≥3 hrs/day),1100.0,No,Medium,Medium,High school
+66927.0,870.0,Minority,High (≥3 hrs/day),1100.0,No,Medium,Medium,High school
 55898.0,1180.0,White,Low (<3 hrs/day),1200.0,Yes,High,High,Bachelor's
 83472.0,850.0,White,High (≥3 hrs/day),990.0,No,Low,Low,Bachelor's
 116250.0,1010.0,White,Low (<3 hrs/day),1140.0,No,Low,Low,Some college
