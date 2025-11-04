@@ -19,7 +19,7 @@
 async function loadCSVText(paths){
   for(const url of paths){
     try{
-      const resp = await fetch(url);
+      const resp = await fetch(url, {cache: 'no-store'});
       if(resp.ok){
         return await resp.text();
       }
@@ -32,6 +32,7 @@ async function loadCSVText(paths){
 
 function buildCandidatePaths(path){
   const urls = [path];
+  const cacheParam = 'v=' + (document.querySelector('meta[name="build-version"]')?.content || Date.now());
   const {hostname, pathname} = window.location;
   if(hostname.endsWith('.github.io')){
     const owner = hostname.replace('.github.io','');
@@ -41,7 +42,7 @@ function buildCandidatePaths(path){
       urls.push(`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`);
     });
   }
-  return urls;
+  return urls.map(url => url + (url.includes('?') ? '&' : '?') + cacheParam);
 }
 
 async function renderCSV(path){
