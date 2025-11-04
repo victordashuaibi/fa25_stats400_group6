@@ -8,7 +8,7 @@ library(corrplot)
 library(GGally)
 
 # Load dataset
-file_path <- "~/Documents/STATS 402/STATS 402 Project One/revised_sat_dataset.csv"
+file_path <- "~/Documents/STATS 402/STATS 402 Project One/revised_sat_dataset_minority.csv"
 df <- read.csv(file_path, stringsAsFactors = TRUE)
 
 # Organize vars
