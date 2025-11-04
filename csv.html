@@ -19,7 +19,7 @@
 async function loadCSVText(paths){
   for(const url of paths){
     try{
-      const resp = await fetch(url);
+      const resp = await fetch(url, {cache: 'no-store'});
       if(resp.ok){
         return await resp.text();
       }
@@ -31,17 +31,25 @@ async function loadCSVText(paths){
 }
 
 function buildCandidatePaths(path){
-  const urls = [path];
+  const cacheParam = 'v=' + (document.querySelector('meta[name="build-version"]')?.content || Date.now());
   const {hostname, pathname} = window.location;
+  const urls = [];
   if(hostname.endsWith('.github.io')){
     const owner = hostname.replace('.github.io','');
     const segments = pathname.split('/').filter(Boolean);
     const repo = segments.length ? segments[0] : owner;
-    ['gh-pages','main','master'].forEach(branch=>{
+    const branches = ['main','master','gh-pages'];
+    branches.forEach(branch => {
       urls.push(`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`);
     });
   }
-  return urls;
+  urls.push(path);
+  const seen = new Set();
+  return urls.filter(url => {
+    if(seen.has(url)) return false;
+    seen.add(url);
+    return true;
+  }).map(url => url + (url.includes('?') ? '&' : '?') + cacheParam);
 }
 
 async function renderCSV(path){
