@@ -38,7 +38,7 @@ function buildCandidatePaths(path){
     const owner = hostname.replace('.github.io','');
     const segments = pathname.split('/').filter(Boolean);
     const repo = segments.length ? segments[0] : owner;
-    const branches = ['main','master','gh-pages'];
+    const branches = ['work','main','master','gh-pages'];
     branches.forEach(branch => {
       urls.push(`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`);
     });
