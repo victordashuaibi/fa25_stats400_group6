@@ -1,6 +1,9 @@
 <!doctype html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>CSV Viewer</title><link rel="stylesheet" href="style.css"></head>
+<title>CSV Viewer</title><link rel="stylesheet" href="style.css">
+<!-- Optional build version for cache-busting -->
+<meta name="build-version" content="">
+</head>
 <body>
 <div class="nav">
   <a href="index.html">Home</a>
@@ -11,75 +14,76 @@
 <div class="container">
   <h1>Dataset</h1>
   <div class="card">
-    <p>Showing the first 1,000 rows (if present). Scroll to view more.</p>
+    <p id="status">Showing the first 1,000 rows (if present). Scroll to view more.</p>
     <div id="tbl" class="scroll-wrap"></div>
   </div>
 </div>
+
 <script>
 async function loadCSVText(paths){
-  for(const url of paths){
+  for (const url of paths){
     try{
-      const resp = await fetch(url, {cache: 'no-store'});
-      if(resp.ok){
-        return await resp.text();
-      }
-    }catch(err){
-      console.warn('Failed to fetch CSV from', url, err);
-    }
+      const resp = await fetch(url, { cache: 'no-store' });
+      if (resp.ok) return await resp.text();
+    }catch(e){ console.warn('Fetch failed:', url, e); }
   }
   return null;
 }
 
+// merged version: try raw URLs on common branches + local path, with de-dupe + cache-busting
 function buildCandidatePaths(path){
   const cacheParam = 'v=' + (document.querySelector('meta[name="build-version"]')?.content || Date.now());
-  const {hostname, pathname} = window.location;
+  const { hostname, pathname } = window.location;
   const urls = [];
-  if(hostname.endsWith('.github.io')){
+
+  if (hostname.endsWith('.github.io')){
     const owner = hostname.replace('.github.io','');
-    const segments = pathname.split('/').filter(Boolean);
-    const repo = segments.length ? segments[0] : owner;
-    const branches = ['work','main','master','gh-pages'];
-    branches.forEach(branch => {
+    const segs = pathname.split('/').filter(Boolean);
+    const repo = segs.length ? segs[0] : owner;
+    ['work','main','master','gh-pages'].forEach(branch => {
       urls.push(`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`);
     });
   }
-  urls.push(path);
+
+  // also try local repo-relative paths
+  urls.push(path);                      // ./revised_sat_dataset.csv
+  urls.push(`data/${path}`.replace(/^.*\//,'')); // ./data/revised_sat_dataset.csv
+
+  // dedupe and add cache-busting
   const seen = new Set();
-  return urls.filter(url => {
-    if(seen.has(url)) return false;
-    seen.add(url);
-    return true;
-  }).map(url => url + (url.includes('?') ? '&' : '?') + cacheParam);
+  return urls.filter(u => (seen.has(u) ? false : seen.add(u))).map(u => u + (u.includes('?') ? '&' : '?') + cacheParam);
 }
 
 async function renderCSV(path){
   const text = await loadCSVText(buildCandidatePaths(path));
-  if(!text){
-    document.getElementById('tbl').textContent = 'Unable to load dataset.';
+  if (!text){
+    document.getElementById('status').innerHTML = 'Unable to load <code>'+path+'</code>. Ensure it exists at repo root or in <code>data/</code>.';
     return;
   }
   const lines = text.split(/\r?\n/).filter(Boolean);
-  if(lines.length === 0){ document.getElementById('tbl').textContent='No data'; return; }
+  if (lines.length === 0){ document.getElementById('tbl').textContent='No data'; return; }
   const header = lines[0].split(',');
   const maxRows = Math.min(lines.length-1, 1000);
-  const rows = [];
-  for(let i=1; i<=maxRows; i++){
-    rows.push(lines[i].split(','));
+  const tbody = document.createElement('tbody');
+
+  for (let i=1; i<=maxRows; i++){
+    const cols = lines[i].split(',');
+    const tr = document.createElement('tr');
+    header.forEach((_,idx)=>{ const td=document.createElement('td'); td.textContent = cols[idx] ?? ''; tr.appendChild(td); });
+    tbody.appendChild(tr);
   }
+
   const table = document.createElement('table');
   const thead = document.createElement('thead');
   const trh = document.createElement('tr');
   header.forEach(h=>{ const th=document.createElement('th'); th.textContent=h; trh.appendChild(th); });
-  thead.appendChild(trh); table.appendChild(thead);
-  const tbody = document.createElement('tbody');
-  rows.forEach(r=>{
-    const tr=document.createElement('tr');
-    header.forEach((_,idx)=>{ const td=document.createElement('td'); td.textContent=r[idx] ?? ''; tr.appendChild(td); });
-    tbody.appendChild(tr);
-  });
+  thead.appendChild(trh);
+
+  table.appendChild(thead);
   table.appendChild(tbody);
   document.getElementById('tbl').appendChild(table);
 }
+
 renderCSV('revised_sat_dataset.csv');
 </script>
 </body></html>
